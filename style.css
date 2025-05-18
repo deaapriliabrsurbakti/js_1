@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background: #f4f4f4;
+    padding: 30px;
+  }
+  
+  .container {
+    max-width: 700px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  input, button {
+    margin: 5px 0;
+    padding: 10px;
+    font-size: 1em;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  button {
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #0056b3;
+  }
+  
+  p, ul {
+    margin-top: 10px;
+  }  
